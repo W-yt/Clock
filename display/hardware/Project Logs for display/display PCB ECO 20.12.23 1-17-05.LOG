@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=+5 Pin=Female HDR1X2-2
+Removed Pin From Net: NetName=GND Pin=Female HDR1X2-3
+Removed Pin From Net: NetName=DIN Pin=Female HDR1X2-4
+Removed Pin From Net: NetName=CS Pin=Female HDR1X2-5
+Removed Pin From Net: NetName=CLK Pin=Female HDR1X2-6
+Removed Member From Class: ClassName=display Member=Female HDR1X2
+Added Component: Designator=J1(Pin HDR1X5/2mm-W)
+Added Pin To Net: NetName=+5 Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=DIN Pin=J1-3
+Added Pin To Net: NetName=CS Pin=J1-4
+Added Pin To Net: NetName=CLK Pin=J1-5
+Added Member To Class: ClassName=display Member=Component J1 Pin HDR1X5
+Added Room: Name=display

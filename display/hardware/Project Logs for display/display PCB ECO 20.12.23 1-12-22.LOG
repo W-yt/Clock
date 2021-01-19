@@ -1,0 +1,347 @@
+Added Component: Designator=C1(0201C)
+Added Component: Designator=C2(0201C)
+Added Component: Designator=C3(0201C)
+Added Component: Designator=C4(0201C)
+Added Component: Designator=Female HDR1X2(Pin HDR1X7/2mm-S)
+Added Component: Designator=LED1(点阵2cm)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "SUNLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "SLD0888DWC1BY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C225986"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "SLD0888DWC1BY"; VariantName = "[No Variations]"
+Added Component: Designator=LED2(点阵2cm)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "SUNLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "SLD0888DWC1BY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C225986"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "SLD0888DWC1BY"; VariantName = "[No Variations]"
+Added Component: Designator=LED3(点阵2cm)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "SUNLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "SLD0888DWC1BY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C225986"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "SLD0888DWC1BY"; VariantName = "[No Variations]"
+Added Component: Designator=LED4(点阵2cm)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "SUNLIGHT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "SLD0888DWC1BY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C225986"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "SLD0888DWC1BY"; VariantName = "[No Variations]"
+Added Component: Designator=R1(0603R)
+Added Component: Designator=R2(0603R)
+Added Component: Designator=R3(0603R)
+Added Component: Designator=R4(0603R)
+Added Component: Designator=U1(MAX7219EWG)
+Add component (AddParameter): Name = "BOM_JLCPCB SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "MAXIM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "MAX7219EWG+T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C52476"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "image"; Value = "//image.lceda.cn/szlcsc/C52476.jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMT Type"; Value = "Extend"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "MAX7219EWG+T"; VariantName = "[No Variations]"
+Added Component: Designator=U2(MAX7219EWG)
+Add component (AddParameter): Name = "BOM_JLCPCB SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "MAXIM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "MAX7219EWG+T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C52476"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "image"; Value = "//image.lceda.cn/szlcsc/C52476.jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMT Type"; Value = "Extend"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "MAX7219EWG+T"; VariantName = "[No Variations]"
+Added Component: Designator=U3(MAX7219EWG)
+Add component (AddParameter): Name = "BOM_JLCPCB SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "MAXIM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "MAX7219EWG+T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C52476"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "image"; Value = "//image.lceda.cn/szlcsc/C52476.jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMT Type"; Value = "Extend"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "MAX7219EWG+T"; VariantName = "[No Variations]"
+Added Component: Designator=U4(MAX7219EWG)
+Add component (AddParameter): Name = "BOM_JLCPCB SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "MAXIM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "MAX7219EWG+T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C52476"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "image"; Value = "//image.lceda.cn/szlcsc/C52476.jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMT Type"; Value = "Extend"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "MAX7219EWG+T"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=C1-2
+Added Pin To Net: NetName=+5 Pin=C2-2
+Added Pin To Net: NetName=+5 Pin=C3-2
+Added Pin To Net: NetName=+5 Pin=C4-2
+Added Pin To Net: NetName=+5 Pin=Female HDR1X2-2
+Added Pin To Net: NetName=+5 Pin=R1-2
+Added Pin To Net: NetName=+5 Pin=R2-2
+Added Pin To Net: NetName=+5 Pin=R3-2
+Added Pin To Net: NetName=+5 Pin=R4-2
+Added Pin To Net: NetName=+5 Pin=U1-19
+Added Pin To Net: NetName=+5 Pin=U2-19
+Added Pin To Net: NetName=+5 Pin=U3-19
+Added Pin To Net: NetName=+5 Pin=U4-19
+Added Net: Name=+5
+Added Pin To Net: NetName=1DIG0 Pin=LED1-9
+Added Net: Name=1DIG0
+Added Pin To Net: NetName=1DIG1 Pin=LED1-14
+Added Pin To Net: NetName=1DIG1 Pin=U3-11
+Added Net: Name=1DIG1
+Added Pin To Net: NetName=1DIG2 Pin=LED1-8
+Added Pin To Net: NetName=1DIG2 Pin=U3-6
+Added Net: Name=1DIG2
+Added Pin To Net: NetName=1DIG3 Pin=LED1-12
+Added Pin To Net: NetName=1DIG3 Pin=U3-7
+Added Net: Name=1DIG3
+Added Pin To Net: NetName=1DIG4 Pin=LED1-1
+Added Net: Name=1DIG4
+Added Pin To Net: NetName=1DIG5 Pin=LED1-7
+Added Pin To Net: NetName=1DIG5 Pin=U3-10
+Added Net: Name=1DIG5
+Added Pin To Net: NetName=1DIG6 Pin=LED1-2
+Added Net: Name=1DIG6
+Added Pin To Net: NetName=1DIG7 Pin=LED1-5
+Added Pin To Net: NetName=1DIG7 Pin=U3-8
+Added Net: Name=1DIG7
+Added Pin To Net: NetName=1DIO0 Pin=U1-2
+Added Net: Name=1DIO0
+Added Pin To Net: NetName=1DIO1 Pin=U1-11
+Added Net: Name=1DIO1
+Added Pin To Net: NetName=1DIO2 Pin=U1-6
+Added Net: Name=1DIO2
+Added Pin To Net: NetName=1DIO3 Pin=U1-7
+Added Net: Name=1DIO3
+Added Pin To Net: NetName=1DIO4 Pin=U1-3
+Added Net: Name=1DIO4
+Added Pin To Net: NetName=1DIO5 Pin=U1-10
+Added Net: Name=1DIO5
+Added Pin To Net: NetName=1DIO6 Pin=U1-5
+Added Net: Name=1DIO6
+Added Pin To Net: NetName=1DIO7 Pin=U1-8
+Added Net: Name=1DIO7
+Added Pin To Net: NetName=1SEGA Pin=LED1-3
+Added Pin To Net: NetName=1SEGA Pin=U1-14
+Added Net: Name=1SEGA
+Added Pin To Net: NetName=1SEGB Pin=LED1-4
+Added Pin To Net: NetName=1SEGB Pin=U1-16
+Added Net: Name=1SEGB
+Added Pin To Net: NetName=1SEGC Pin=LED1-10
+Added Pin To Net: NetName=1SEGC Pin=U1-20
+Added Net: Name=1SEGC
+Added Pin To Net: NetName=1SEGDP Pin=LED1-13
+Added Pin To Net: NetName=1SEGDP Pin=U1-22
+Added Net: Name=1SEGDP
+Added Pin To Net: NetName=1SEGD Pin=LED1-6
+Added Pin To Net: NetName=1SEGD Pin=U1-23
+Added Net: Name=1SEGD
+Added Pin To Net: NetName=1SEGE Pin=LED1-11
+Added Pin To Net: NetName=1SEGE Pin=U1-21
+Added Net: Name=1SEGE
+Added Pin To Net: NetName=1SEGF Pin=LED1-15
+Added Pin To Net: NetName=1SEGF Pin=U1-15
+Added Net: Name=1SEGF
+Added Pin To Net: NetName=1SEGG Pin=LED1-16
+Added Pin To Net: NetName=1SEGG Pin=U1-17
+Added Net: Name=1SEGG
+Added Pin To Net: NetName=2DIG0 Pin=LED2-9
+Added Pin To Net: NetName=2DIG0 Pin=U2-2
+Added Net: Name=2DIG0
+Added Pin To Net: NetName=2DIG1 Pin=LED2-14
+Added Pin To Net: NetName=2DIG1 Pin=U2-11
+Added Net: Name=2DIG1
+Added Pin To Net: NetName=2DIG2 Pin=LED2-8
+Added Pin To Net: NetName=2DIG2 Pin=U2-6
+Added Net: Name=2DIG2
+Added Pin To Net: NetName=2DIG3 Pin=LED2-12
+Added Pin To Net: NetName=2DIG3 Pin=U2-7
+Added Net: Name=2DIG3
+Added Pin To Net: NetName=2DIG4 Pin=LED2-1
+Added Pin To Net: NetName=2DIG4 Pin=U2-3
+Added Net: Name=2DIG4
+Added Pin To Net: NetName=2DIG5 Pin=LED2-7
+Added Pin To Net: NetName=2DIG5 Pin=U2-10
+Added Net: Name=2DIG5
+Added Pin To Net: NetName=2DIG6 Pin=LED2-2
+Added Pin To Net: NetName=2DIG6 Pin=U2-5
+Added Net: Name=2DIG6
+Added Pin To Net: NetName=2DIG7 Pin=LED2-5
+Added Pin To Net: NetName=2DIG7 Pin=U2-8
+Added Net: Name=2DIG7
+Added Pin To Net: NetName=2SEGA Pin=LED2-3
+Added Net: Name=2SEGA
+Added Pin To Net: NetName=2SEGB Pin=LED2-4
+Added Pin To Net: NetName=2SEGB Pin=U2-14
+Added Pin To Net: NetName=2SEGB Pin=U2-16
+Added Net: Name=2SEGB
+Added Pin To Net: NetName=2SEGC Pin=LED2-10
+Added Pin To Net: NetName=2SEGC Pin=U2-20
+Added Net: Name=2SEGC
+Added Pin To Net: NetName=2SEGDP Pin=LED2-13
+Added Pin To Net: NetName=2SEGDP Pin=U2-22
+Added Net: Name=2SEGDP
+Added Pin To Net: NetName=2SEGD Pin=LED2-6
+Added Pin To Net: NetName=2SEGD Pin=U2-23
+Added Net: Name=2SEGD
+Added Pin To Net: NetName=2SEGE Pin=LED2-11
+Added Pin To Net: NetName=2SEGE Pin=U2-21
+Added Net: Name=2SEGE
+Added Pin To Net: NetName=2SEGF Pin=LED2-15
+Added Pin To Net: NetName=2SEGF Pin=U2-15
+Added Net: Name=2SEGF
+Added Pin To Net: NetName=2SEGG Pin=LED2-16
+Added Pin To Net: NetName=2SEGG Pin=U2-17
+Added Net: Name=2SEGG
+Added Pin To Net: NetName=3DIG0 Pin=LED3-9
+Added Pin To Net: NetName=3DIG0 Pin=U3-2
+Added Net: Name=3DIG0
+Added Pin To Net: NetName=3DIG1 Pin=LED3-14
+Added Net: Name=3DIG1
+Added Pin To Net: NetName=3DIG2 Pin=LED3-8
+Added Net: Name=3DIG2
+Added Pin To Net: NetName=3DIG3 Pin=LED3-12
+Added Net: Name=3DIG3
+Added Pin To Net: NetName=3DIG4 Pin=LED3-1
+Added Pin To Net: NetName=3DIG4 Pin=U3-3
+Added Net: Name=3DIG4
+Added Pin To Net: NetName=3DIG5 Pin=LED3-7
+Added Net: Name=3DIG5
+Added Pin To Net: NetName=3DIG6 Pin=LED3-2
+Added Pin To Net: NetName=3DIG6 Pin=U3-5
+Added Net: Name=3DIG6
+Added Pin To Net: NetName=3DIG7 Pin=LED3-5
+Added Net: Name=3DIG7
+Added Pin To Net: NetName=3SEGA Pin=LED3-3
+Added Pin To Net: NetName=3SEGA Pin=U3-14
+Added Net: Name=3SEGA
+Added Pin To Net: NetName=3SEGB Pin=LED3-4
+Added Pin To Net: NetName=3SEGB Pin=U3-16
+Added Net: Name=3SEGB
+Added Pin To Net: NetName=3SEGC Pin=LED3-10
+Added Pin To Net: NetName=3SEGC Pin=U3-20
+Added Net: Name=3SEGC
+Added Pin To Net: NetName=3SEGDP Pin=LED3-13
+Added Pin To Net: NetName=3SEGDP Pin=U3-22
+Added Net: Name=3SEGDP
+Added Pin To Net: NetName=3SEGD Pin=LED3-6
+Added Pin To Net: NetName=3SEGD Pin=U3-21
+Added Pin To Net: NetName=3SEGD Pin=U3-23
+Added Net: Name=3SEGD
+Added Pin To Net: NetName=3SEGE Pin=LED3-11
+Added Net: Name=3SEGE
+Added Pin To Net: NetName=3SEGF Pin=LED3-15
+Added Pin To Net: NetName=3SEGF Pin=U3-15
+Added Net: Name=3SEGF
+Added Pin To Net: NetName=3SEGG Pin=LED3-16
+Added Pin To Net: NetName=3SEGG Pin=U3-17
+Added Net: Name=3SEGG
+Added Pin To Net: NetName=4DIG0 Pin=LED4-9
+Added Pin To Net: NetName=4DIG0 Pin=U4-2
+Added Net: Name=4DIG0
+Added Pin To Net: NetName=4DIG1 Pin=LED4-14
+Added Pin To Net: NetName=4DIG1 Pin=U4-11
+Added Net: Name=4DIG1
+Added Pin To Net: NetName=4DIG2 Pin=LED4-8
+Added Pin To Net: NetName=4DIG2 Pin=U4-6
+Added Net: Name=4DIG2
+Added Pin To Net: NetName=4DIG3 Pin=LED4-12
+Added Pin To Net: NetName=4DIG3 Pin=U4-7
+Added Net: Name=4DIG3
+Added Pin To Net: NetName=4DIG4 Pin=LED4-1
+Added Pin To Net: NetName=4DIG4 Pin=U4-3
+Added Net: Name=4DIG4
+Added Pin To Net: NetName=4DIG5 Pin=LED4-7
+Added Pin To Net: NetName=4DIG5 Pin=U4-10
+Added Net: Name=4DIG5
+Added Pin To Net: NetName=4DIG6 Pin=LED4-2
+Added Pin To Net: NetName=4DIG6 Pin=U4-5
+Added Net: Name=4DIG6
+Added Pin To Net: NetName=4DIG7 Pin=LED4-5
+Added Pin To Net: NetName=4DIG7 Pin=U4-8
+Added Net: Name=4DIG7
+Added Pin To Net: NetName=4SEGA Pin=LED4-3
+Added Pin To Net: NetName=4SEGA Pin=U4-14
+Added Net: Name=4SEGA
+Added Pin To Net: NetName=4SEGB Pin=LED4-4
+Added Pin To Net: NetName=4SEGB Pin=U4-16
+Added Net: Name=4SEGB
+Added Pin To Net: NetName=4SEGC Pin=LED4-10
+Added Pin To Net: NetName=4SEGC Pin=U4-20
+Added Net: Name=4SEGC
+Added Pin To Net: NetName=4SEGDP Pin=LED4-13
+Added Pin To Net: NetName=4SEGDP Pin=U4-22
+Added Net: Name=4SEGDP
+Added Pin To Net: NetName=4SEGD Pin=LED4-6
+Added Pin To Net: NetName=4SEGD Pin=U4-23
+Added Net: Name=4SEGD
+Added Pin To Net: NetName=4SEGE Pin=LED4-11
+Added Pin To Net: NetName=4SEGE Pin=U4-21
+Added Net: Name=4SEGE
+Added Pin To Net: NetName=4SEGF Pin=LED4-15
+Added Pin To Net: NetName=4SEGF Pin=U4-15
+Added Net: Name=4SEGF
+Added Pin To Net: NetName=4SEGG Pin=LED4-16
+Added Pin To Net: NetName=4SEGG Pin=U4-17
+Added Net: Name=4SEGG
+Added Pin To Net: NetName=CLK Pin=Female HDR1X2-6
+Added Pin To Net: NetName=CLK Pin=U1-13
+Added Pin To Net: NetName=CLK Pin=U2-13
+Added Pin To Net: NetName=CLK Pin=U3-13
+Added Pin To Net: NetName=CLK Pin=U4-13
+Added Net: Name=CLK
+Added Pin To Net: NetName=CS Pin=Female HDR1X2-5
+Added Pin To Net: NetName=CS Pin=U1-12
+Added Pin To Net: NetName=CS Pin=U2-12
+Added Pin To Net: NetName=CS Pin=U3-12
+Added Pin To Net: NetName=CS Pin=U4-12
+Added Net: Name=CS
+Added Pin To Net: NetName=DIN Pin=Female HDR1X2-4
+Added Pin To Net: NetName=DIN Pin=U4-1
+Added Net: Name=DIN
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=Female HDR1X2-3
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-9
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Pin To Net: NetName=GND Pin=U2-9
+Added Pin To Net: NetName=GND Pin=U3-4
+Added Pin To Net: NetName=GND Pin=U3-9
+Added Pin To Net: NetName=GND Pin=U4-4
+Added Pin To Net: NetName=GND Pin=U4-9
+Added Net: Name=GND
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U1-18
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=U2-18
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=U3-18
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=U4-18
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetU1_1 Pin=U1-1
+Added Pin To Net: NetName=NetU1_1 Pin=U2-24
+Added Net: Name=NetU1_1
+Added Pin To Net: NetName=NetU2_1 Pin=U2-1
+Added Pin To Net: NetName=NetU2_1 Pin=U3-24
+Added Net: Name=NetU2_1
+Added Pin To Net: NetName=NetU3_1 Pin=U3-1
+Added Pin To Net: NetName=NetU3_1 Pin=U4-24
+Added Net: Name=NetU3_1
+Added Class: Name=display
+Added Room: Name=display

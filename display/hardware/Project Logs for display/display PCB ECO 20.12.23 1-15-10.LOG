@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=2SEGB Pin=U2-14
+Removed Pin From Net: NetName=1DIG2 Pin=U3-6
+Removed Pin From Net: NetName=1DIG3 Pin=U3-7
+Removed Pin From Net: NetName=1DIG7 Pin=U3-8
+Removed Pin From Net: NetName=1DIG5 Pin=U3-10
+Removed Pin From Net: NetName=1DIG1 Pin=U3-11
+Removed Pin From Net: NetName=3SEGD Pin=U3-21
+Added Pin To Net: NetName=2SEGA Pin=U2-14
+Added Pin To Net: NetName=3DIG2 Pin=U3-6
+Added Pin To Net: NetName=3DIG3 Pin=U3-7
+Added Pin To Net: NetName=3DIG7 Pin=U3-8
+Added Pin To Net: NetName=3DIG5 Pin=U3-10
+Added Pin To Net: NetName=3DIG1 Pin=U3-11
+Added Pin To Net: NetName=3SEGE Pin=U3-21
